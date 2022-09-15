@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="78a0dc55-045f-4dc6-b28c-b12e905c28e6" name="devISI" url="http://dev-isi.utt.fr/~kouroumi/">
+        <fileTransfer rootFolder="/home/etu/kouroumi" accessType="SFTP" host="dev-isi.utt.fr" port="22" sshConfigId="8fc79edb-49db-4839-9317-9538b97d2d8a" sshConfig="kouroumi@dev-isi.utt.fr:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

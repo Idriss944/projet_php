@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="devISI" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="devISI">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www/lo07_tp" local="$PROJECT_DIR$/lo07_tp" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
